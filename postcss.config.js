@@ -1,4 +1,4 @@
-//config for post css aha
+//config for post css
 export default {
   plugins: {
     tailwindcss: {},
