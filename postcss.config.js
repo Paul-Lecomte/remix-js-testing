@@ -1,4 +1,4 @@
-//config for post css
+//config for post css i'm lost aat this point
 export default {
   plugins: {
     tailwindcss: {},
